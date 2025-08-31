@@ -1,0 +1,15 @@
+{
+    "contact": {
+        
+        "firstName": "Donnaa",
+        "lastName": "chhetri",
+        "birthdate": "2004-08-09",
+        "email": "ramaa@gmail.com",
+        "phone": "9812345670",
+        "street1": "Balkhu,Kathmandu,Nepal",
+        "city": "bhaktapur",
+        "stateProvince": "bagmati",
+        "postalCode": "00123",
+        "country": "NP"        
+    }
+}
